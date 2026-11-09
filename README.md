@@ -1,2 +1,2 @@
 # women_endurance
-DTSC 22 Final
+DTSC 220 Final
